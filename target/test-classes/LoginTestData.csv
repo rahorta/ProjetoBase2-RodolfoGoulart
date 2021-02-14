@@ -1,0 +1,5 @@
+testRealizarLogin,login,senha,Duration(ms)
+"",rodolfo.andrade,rodolfo123,2038.0
+testRealizarLoginInvalido,login,senha,mensagem
+"",usuario,123456,Your account may be disabled or blocked or the username/password you entered is incorrect.
+"",usuario,123456,Mensagem incorreta.
